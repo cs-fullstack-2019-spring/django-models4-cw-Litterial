@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="681d3a06-d4a1-4953-b16a-920b12adc11e" name="Default Changelist" comment="" />
+    <list default="true" id="681d3a06-d4a1-4953-b16a-920b12adc11e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cwProject/cwApps/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cwProject/cwApps/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cwProject/cwApps/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cwProject/cwApps/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cwProject/cwApps/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cwProject/cwApps/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cwProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/cwProject/db.sqlite3" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cwProject/cwApps/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -26,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cwProject/cwApps/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="30">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -48,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cwProject/cwProject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="156">
               <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
@@ -73,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/cwProject/cwApps/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -98,8 +103,8 @@
       <list>
         <option value="$PROJECT_DIR$/cwProject/cwProject/urls.py" />
         <option value="$PROJECT_DIR$/cwProject/cwProject/settings.py" />
-        <option value="$PROJECT_DIR$/cwProject/cwApps/models.py" />
         <option value="$PROJECT_DIR$/cwProject/cwApps/admin.py" />
+        <option value="$PROJECT_DIR$/cwProject/cwApps/models.py" />
         <option value="$PROJECT_DIR$/cwProject/cwApps/urls.py" />
         <option value="$PROJECT_DIR$/cwProject/cwApps/views.py" />
       </list>
@@ -112,8 +117,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="105" />
+    <option name="x" value="108" />
+    <option name="y" value="42" />
     <option name="width" value="1431" />
     <option name="height" value="689" />
   </component>
@@ -157,7 +162,7 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.4.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django-models4-ic-Kevin-CodeCrew" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django-models2-cw-Kenn-CodeCrew" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -190,7 +195,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="123" width="1431" height="689" extended-state="0" />
+    <frame x="108" y="42" width="1431" height="689" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -232,19 +238,26 @@
     <entry file="file://$PROJECT_DIR$/cwProject/cwApps/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cwProject/cwApps/urls.py">
+    <entry file="file://$PROJECT_DIR$/cwProject/cwApps/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cwProject/cwApps/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cwProject/cwProject/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="156">
           <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="e#633#665#0" expanded="true" />
@@ -252,12 +265,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cwProject/cwApps/admin.py">
+    <entry file="file://$PROJECT_DIR$/cwProject/cwApps/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -270,17 +283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cwProject/cwApps/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cwProject/cwApps/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="30">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

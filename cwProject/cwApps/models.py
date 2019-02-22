@@ -7,7 +7,7 @@ class Mom(models.Model):
     phoneNumber=models.IntegerField(max_length=10)
 
     def __str__(self):
-        return f'{self.f_name}{self.l_name}'
+        return f'{self.f_name} {self.l_name}'
 
 class Child(models.Model):
     f_name=models.CharField(max_length=50)
@@ -15,4 +15,4 @@ class Child(models.Model):
     child_mom=models.ForeignKey(Mom,on_delete=models.CASCADE)
 
     def __str__(self):
-        return f'{self.f_name}{self.l_name}'
+        return f'{self.f_name} {self.l_name}'
