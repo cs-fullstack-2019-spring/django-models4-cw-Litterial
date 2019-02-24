@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: WOW! Well done! One of the only Students to finish everything!
+
 # Django Models and Foreign keys
 
 ### Exercise 1
